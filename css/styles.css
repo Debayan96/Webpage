@@ -1,0 +1,32 @@
+#date {
+  position: absolute;
+  margin: 0px 40% 0px 40%;
+  color: white;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+#time {
+  position: absolute;
+  right: 10px;
+  color: white;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+#hi {
+  color: white;
+  display: inline-block;
+  padding-top: 2px;
+}
+
+.fontSacramento {
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+  word-spacing: 10px;
+  padding-left: 10px;
+}
+
+.header-div {
+  background-color: #181D31;
+}
